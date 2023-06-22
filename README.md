@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src= "https://tenor.com/view/star-wars-hello-there-hello-obi-wan-kenobi-gif-13903117">
+
+![](star-wars-hello-there.gif)
 
 I'm an aspiring Software Engineer with interests in Game Development. I'm currently pursuing an Undergraduate Degree in Computer Science.
 
